@@ -27,7 +27,7 @@ A collection of papers and implementations for privacy computing in the metavers
 ## Survey
 | Paper Title | Venue | Year | Materials | 
 | ---- | :----: | :----: | :----: | 
-| Privacy Computing Meets Metaverse: Necessity, Taxonomy and Challenges | Ad Hoc Networks | 2024 | [[Paper](https://arxiv.org/abs/2304.11643)] <br> [[Code](https://github.com/6lyc/Awesome-Privacy-Computing-in-Metaverse)]|
+| Privacy Computing Meets Metaverse: Necessity, Taxonomy and Challenges | Ad Hoc Networks | 2024 | [[Paper](https://arxiv.org/pdf/2304.11643.pdf)] <br> [[Code](https://github.com/6lyc/Awesome-Privacy-Computing-in-Metaverse)]|
 
 ----------
 ## Federated Learning in Metaverse
